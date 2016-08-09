@@ -7,6 +7,4 @@ Using a dataset of intake information including breed, color, sex, and age from 
 
 We also believe this dataset can help us understand trends in animal outcomes. These insights could help shelters focus their energy on specific animals who need a little extra help finding a new home. We encourage you to publish your insights on Scripts so they are publicly accessible.
 
-Acknowledgements
-
 Kaggle is hosting this competition for the machine learning community to use for data science practice and social good. The dataset is brought to you by Austin Animal Center. Shelter animal statistics were taken from the ASPCA.
