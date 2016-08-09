@@ -1,2 +1,2 @@
 # Competitions
-Some code from my partitipations on Kaggle competitions
+Some code from my partitipation on Kaggle competitions
